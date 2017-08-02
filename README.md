@@ -1,0 +1,2 @@
+# LandscapeVerticalXIBAdaptationDemo
+iOS横竖屏适配，XIB方式
